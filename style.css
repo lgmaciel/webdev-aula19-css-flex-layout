@@ -1,0 +1,13 @@
+.container-sections {
+    display: flex;
+}
+
+.container-artigos {
+    display: flex;
+    flex-direction: column;
+
+}
+
+.container-artigos > article {
+    margin-bottom: 2rem;
+}
